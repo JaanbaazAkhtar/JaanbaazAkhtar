@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jaanbaazakhtar786@gmail.com**
 
-- ⚡ Fun fact **I the limit of procrastination, yet dependable.**
+- ⚡ Fun fact **I am the limit of procrastination, yet dependable.**
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
