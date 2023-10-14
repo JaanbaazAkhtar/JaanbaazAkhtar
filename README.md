@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jaanbaaz Akhtar</h1>
 <h3 align="center">A passionate full-stack Web, Mobile App developer, UI/UX designer from India.</h3><br/>
 
-- 🔭 I’m currently working on **Full Stack Web-based projects**
-
-- 🌱 I’m currently learning **gatsby & node.js**
+- 🔭 I’m an experienced **Full Stack Engineer** specializing in **Node.js**
 
 - 👯 I’m looking to collaborate on **Web Development & App Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JaanbaazAkhtar/](https://github.com/JaanbaazAkhtar/)
 
-- 💬 Ask me about **Front end Web Development or UI/UX design.**
+- 💬 Ask me about **Backend and management**
 
 - 📫 How to reach me **jaanbaazakhtar786@gmail.com**
 
